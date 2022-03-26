@@ -20,6 +20,9 @@ n$ = n Stacks
 | Cooked Beef      | 4$      |
 | Carrot           | 6$      |
 | Beetroot Seeds   | 1$      |
+| Shulker Shell    | 18      |
+| Ender Chest      | 2       |
+| Obsidian         | 1$      |
 
 ## Blocks
 | Name                          | Amount |
@@ -44,7 +47,6 @@ n$ = n Stacks
 ## Unique Items
 | Name                     | Amount               |
 | ------------------------ | -------------------- |
-| Magician's Blood Orb     | 1                    |
 | Sentient Sword           | 3                    |
 | Spawner*                 | [list](#spawners)    |
 | Music Disc*              | [list](#music-discs) |
