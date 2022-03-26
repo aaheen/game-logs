@@ -32,6 +32,7 @@ n$ = n Stacks
 | Cyan Sharestone               | 10     |
 | Waystone                      | 7      |
 | Rune of Capacity              | 32     |
+| Framed Glass (Quark)          | 4$     |
 | Paper Wall (Quark)            | 2$     |
 | Paper Wall - Sakura (Quark)   | 1$     |
 | Glowing Pillar Luminophor     | 1$     |
