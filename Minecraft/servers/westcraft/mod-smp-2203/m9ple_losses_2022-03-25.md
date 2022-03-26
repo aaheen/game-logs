@@ -15,7 +15,7 @@ n$ = n Stacks
 | Diamond          | 24      |
 | BYG Cherry Log   | 3$      |
 | Ender Pearl      | 8$      |
-| Warp Stone       | 12      |
+| Warp Stone       | 16      |
 | Source Gem Block | 1$      |
 | Cooked Beef      | 4$      |
 | Carrot           | 6$      |
@@ -33,7 +33,7 @@ n$ = n Stacks
 | Diamond Chest                 | 7      |
 | Crystal Chest                 | 2      |
 | Flourishing Nightshade Leaves | 1$     |
-| Cyan Sharestone               | 10     |
+| Cyan Sharestone               | ~~10~~ 4 |
 | Waystone                      | 7      |
 | Rune of Capacity              | 32     |
 | Framed Glass (Quark)          | 4$     |
