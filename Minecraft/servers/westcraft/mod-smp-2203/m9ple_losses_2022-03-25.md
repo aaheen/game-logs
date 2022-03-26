@@ -15,6 +15,7 @@ n$ = n Stacks
 | Diamond          | 24      |
 | BYG Cherry Log   | 3$      |
 | Ender Pearl      | 8$      |
+| Warp Stone       | 12      |
 | Source Gem Block | 1$      |
 | Cooked Beef      | 4$      |
 | Carrot           | 6$      |
