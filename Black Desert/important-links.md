@@ -39,25 +39,25 @@ Twitch Category - https://www.twitch.tv/directory/game/Black%20Desert
 - (Endgame) PvE LFG - https://discord.gg/GVs5xKBUbk
 - Community & Official events - https://discord.gg/Ge8sxeW
 
-### Class-specific
-
-- Archer - https://discord.gg/TbTZvP3
-- Corsair - https://discord.gg/bdocorsair
-- Dark Knight - https://discord.gg/G6KfErT
-- Drakania - https://discord.gg/VhzMqU5EAZ
-- Hashashin - https://discord.gg/P7u9m2A
-- Guardian - https://discord.gg/9jdEmYp
-- Lahn: https://discord.gg/nRBXMtW
-- Musa/Maehwa - https://discord.gg/6ThcWqx 
-- Ninja/Kuno - https://discord.gg/VSuuF5g
-- Nova - https://discord.gg/4PrzEHm
-- Ranger - https://discord.gg/D66tmQA
-- Sage - https://discord.gg/EJ98umNjyZ
-- Shai - https://discord.gg/vq68zAG
-- Sorceress - https://discord.gg/GWz9SNd
-- Striker/Mystic: https://discord.gg/eFmQC9K
-- Tamer Puppy Princess - https://discord.gg/zn6puC6
-- Valk - https://discord.gg/eJJhUk3
-- Warrior - https://discord.gg/J7sBWWP
-- Witch/Wizard - https://discord.gg/zNWeZ8v
-- Zerker - https://discord.gg/83Ny223
+| Class          | Discord                       |
+| -------------- | ----------------------------- |
+| Archer         | https://discord.gg/TbTZvP3    |
+| Corsair        | https://discord.gg/bdocorsair |
+| Dark Knight    | https://discord.gg/G6KfErT    |
+| Drakania       | https://discord.gg/VhzMqU5EAZ |
+| Hashashin      | https://discord.gg/P7u9m2A    |
+| Guardian       | https://discord.gg/9jdEmYp    |
+| Lahn           | https://discord.gg/nRBXMtW    |
+| Musa/Maehwa    | https://discord.gg/6ThcWqx    |
+| Ninja/Kuno     | https://discord.gg/VSuuF5g    |
+| Nova           | https://discord.gg/4PrzEHm    |
+| Ranger         | https://discord.gg/D66tmQA    |
+| Sage           | https://discord.gg/EJ98umNjyZ |
+| Shai           | https://discord.gg/vq68zAG    |
+| Sorceress      | https://discord.gg/GWz9SNd    |
+| Striker/Mystic | https://discord.gg/eFmQC9K    |
+| Tamer          | https://discord.gg/zn6puC6    |
+| Valk           | https://discord.gg/eJJhUk3    |
+| Warrior        | https://discord.gg/J7sBWWP    |
+| Witch/Wizard   | https://discord.gg/zNWeZ8v    |
+| Zerker         | https://discord.gg/83Ny223    |
