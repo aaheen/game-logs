@@ -1,13 +1,16 @@
 # Black Desert - Links
 
-## Websites
+## Informational Websites
 
-Patch Notes - https://www.naeu.playblackdesert.com/en-US/News/Notice
+| Site         | Link                                                   |
+| ------------ | ------------------------------------------------------ | 
+| Patch Notes  | https://www.naeu.playblackdesert.com/en-US/News/Notice |
+| BDO Codex    | https://bdocodex.com/us/                               |
+| Incendar     | https://incendar.com/bdo_pearl_abyss_coupon_codes.php  |
+| BDO Database | https://bddatabase.net/us/                             |
+| Twitch       | https://www.twitch.tv/directory/game/Black%20Desert    |
 
-BDO Codex - https://bdocodex.com/us/
-
-Twitch Category - https://www.twitch.tv/directory/game/Black%20Desert
-> Watch Korean streamers to see people with 10k hrs of actual combat expierience, watch most NA streamers for memes, watch one of a select few streamers for educational content
+> **Twitch:** Watch Korean streamers to see people with 10k hrs of actual combat expierience, watch most NA streamers for memes, watch one of a select few streamers for educational content
 
 ## Content Creators
 
@@ -28,7 +31,7 @@ Twitch Category - https://www.twitch.tv/directory/game/Black%20Desert
 
 > *There's a fuck ton more than these, but here's a few to start*
 
-**Official** BDO Discord - https://discord.gg/blackdesertonline
+### Official BDO Discord - https://discord.gg/blackdesertonline
 
 ### Community
 
